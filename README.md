@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/renzzoPV/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renzzopv/" height="30" width="40" /></a>
+<a href="https://app.aluracursos.com/user/renzzoomar" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs" alt="https://app.aluracursos.com/user/renzzoomar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
