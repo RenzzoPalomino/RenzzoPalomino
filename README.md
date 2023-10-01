@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renzzo Palomino de la Vega</h1>
 <h3 align="center">A passionate Backend developer in training from Perú</h3>
 
-- 🌱 I’m currently learning **Laravel, SpringBoot and Angular.**
+- 🌱 I’m currently learning **SpringBoot and .Net.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
