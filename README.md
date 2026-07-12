@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:68217A&height=200&section=header&text=Renzzo%20Palomino%20de%20la%20Vega&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20.NET%20%2F%20C%23&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:68217A&height=200&section=header&text=Renzzo%20Palomino%20de%20la%20Vega&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20.NET%20%2F%20C%23&descAlignY=58&descSize=18" />
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=.NET+%2F+C%23+%2F+SQL+Server;Entity+Framework+%7C+Arquitectura+N-Tier;Integraciones+API+%2F+ERP+%2F+CRM;Explorando+Docker+%26+agentes+de+IA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=.NET+%2F+C%23+%2F+SQL+Server;Entity+Framework+%7C+Arquitectura+N-Tier;Bases+de+Datos%3A+SQL+Server+%26+MySQL;Clean+Code+%26+Buenas+Pr%C3%A1cticas;Integraciones+API+%2F+ERP+%2F+CRM;Git+%C2%B7+GitHub+%C2%B7+Azure+DevOps;Explorando+Docker+%26+agentes+de+IA" alt="Typing SVG" /></a>
 </p>
 
 - 🛠️ Stack principal: **C#, .NET 6/8/9, SQL Server, Entity Framework, Windows Server / IIS**.
@@ -11,6 +11,10 @@
 - 💬 Pregúntame sobre .NET, C#, SQL Server, arquitectura N-Tier y Entity Framework.
 
 <br clear="both"/>
+
+<p align="center">
+<img src="https://www.adexperu.org.pe/descargas/debe3852-19a0-4f9e-9d0d-29d257297e0e-adex_concierto_jaja_que_es_esto.png" alt="brand" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
