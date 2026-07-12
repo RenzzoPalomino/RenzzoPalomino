@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Renzzo Palomino de la Vega</h1>
-<h3 align="center">Backend Developer · .NET / C# | 3+ años de experiencia | Perú 🇵🇪</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:68217A&height=200&section=header&text=Renzzo%20Palomino%20de%20la%20Vega&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20.NET%20%2F%20C%23&descAlignY=58&descSize=18" />
 
-- 💼 Actualmente trabajo como **Analista Programador en ADEX**, desarrollando y manteniendo aplicaciones en .NET/C# con SQL Server e IIS.
-- 🔗 Integré pasarelas de pago (Niubiz), interconexión con SAP e integraciones vía APIs y CRM.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=.NET+%2F+C%23+%2F+SQL+Server;Entity+Framework+%7C+Arquitectura+N-Tier;Integraciones+API+%2F+ERP+%2F+CRM;Explorando+Docker+%26+agentes+de+IA" alt="Typing SVG" /></a>
+</p>
+
+- 🛠️ Stack principal: **C#, .NET 6/8/9, SQL Server, Entity Framework, Windows Server / IIS**.
+- 🔗 Experiencia integrando **APIs, pasarelas de pago y sistemas ERP/CRM**.
+- 📊 Procesos ETL, migraciones masivas de datos y optimización de bases de datos.
 - 🌱 Explorando **agentes de IA aplicados al desarrollo de software** y contenedores con **Docker**.
-- 📊 Experiencia en procesos ETL, migraciones masivas de datos y optimización de bases de datos.
 - 💬 Pregúntame sobre .NET, C#, SQL Server, arquitectura N-Tier y Entity Framework.
+
+<br clear="both"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +39,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzzopalomino&show_icons=true&locale=en&layout=compact" alt="renzzopalomino" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renzzopalomino&show_icons=true&locale=en" alt="renzzopalomino" /></p>
+
+<br clear="both"/>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/renzzopalomino/renzzopalomino/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:68217A&height=100&section=footer" />
